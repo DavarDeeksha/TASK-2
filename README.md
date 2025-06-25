@@ -1,5 +1,5 @@
 
-# Student Database SQL Task
+# Student Database SQL Task-2
 
 This project demonstrates basic SQL operations including:
 
